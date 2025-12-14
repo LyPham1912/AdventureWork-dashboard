@@ -10,4 +10,4 @@ AdventureWork dashboard for Overview, Products, Region
 - Create data modeling: connect relationships, modify cross-filter function
 - Visualization: create Overview, Product, Region dashboard by chart, table, line-graph, column-chart,...
 
-Link to view on Drive (my Microsoft account has a problem): https://drive.google.com/drive/folders/1RcNhKFTX6BaduUEbqcVA2waCXGsjJxFR?usp=sharing
+Link to view on Drive: https://drive.google.com/drive/folders/1RcNhKFTX6BaduUEbqcVA2waCXGsjJxFR?usp=sharing
